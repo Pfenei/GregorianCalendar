@@ -1,0 +1,13 @@
+C:\Users\cupca\source\repos\GregorianCalendar\bin\Debug\netcoreapp3.1\GregorianCalendar.exe
+C:\Users\cupca\source\repos\GregorianCalendar\bin\Debug\netcoreapp3.1\GregorianCalendar.deps.json
+C:\Users\cupca\source\repos\GregorianCalendar\bin\Debug\netcoreapp3.1\GregorianCalendar.runtimeconfig.json
+C:\Users\cupca\source\repos\GregorianCalendar\bin\Debug\netcoreapp3.1\GregorianCalendar.runtimeconfig.dev.json
+C:\Users\cupca\source\repos\GregorianCalendar\bin\Debug\netcoreapp3.1\GregorianCalendar.dll
+C:\Users\cupca\source\repos\GregorianCalendar\bin\Debug\netcoreapp3.1\GregorianCalendar.pdb
+C:\Users\cupca\source\repos\GregorianCalendar\obj\Debug\netcoreapp3.1\GregorianCalendar.csprojAssemblyReference.cache
+C:\Users\cupca\source\repos\GregorianCalendar\obj\Debug\netcoreapp3.1\GregorianCalendar.AssemblyInfoInputs.cache
+C:\Users\cupca\source\repos\GregorianCalendar\obj\Debug\netcoreapp3.1\GregorianCalendar.AssemblyInfo.cs
+C:\Users\cupca\source\repos\GregorianCalendar\obj\Debug\netcoreapp3.1\GregorianCalendar.csproj.CoreCompileInputs.cache
+C:\Users\cupca\source\repos\GregorianCalendar\obj\Debug\netcoreapp3.1\GregorianCalendar.dll
+C:\Users\cupca\source\repos\GregorianCalendar\obj\Debug\netcoreapp3.1\GregorianCalendar.pdb
+C:\Users\cupca\source\repos\GregorianCalendar\obj\Debug\netcoreapp3.1\GregorianCalendar.genruntimeconfig.cache
